@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aguila3000
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning javascript
